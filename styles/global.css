@@ -105,3 +105,16 @@ a {
     color-scheme: dark;
   }
 }
+
+
+@font-face {
+  font-family: 'Circular XX Web';
+  src: '/public/fonts/CircularXXWeb-Regular.woff2' format('woff2'),
+  /* var(--CircularXXWeb3) */
+    /* url('/public//fonts/CircularXXWeb-Regular.woff') format('woff'), */
+    /* url('/public/fonts/CircularXXTT-BlackItalic.ttf') format('ttf'); */
+  /* font-weight: 400; */
+  /* font-style: normal; */
+  /* font-display: swap; */
+  /* variable:  */
+}
